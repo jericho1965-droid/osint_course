@@ -8,7 +8,11 @@ Corso interattivo di Open Source Intelligence (OSINT): un percorso completo stru
 📖 Libro del Corso
 
 Il manuale cartaceo / digitale completo che accompagna questo corso è disponibile su Amazon:
-👉 [![Libro del Corso su Amazon](https://img.shields.io/badge/Amazon-Compra%20il%20Libro-orange?style=for-the-badge&logo=amazon&logoColor=white)](https://www.amazon.it/dp/B0HP6MQP3R)
+<p align="center">
+  <a href="https://www.amazon.it/dp/B0HP6MQP3R" target="_blank">
+    <img src="https://img.shields.io/badge/Amazon-Compra%20il%20Libro-orange?style=for-the-badge&logo=amazon&logoColor=white" alt="Libro del Corso su Amazon">
+  </a>
+</p>
 
 📚 Struttura del Corso
 
