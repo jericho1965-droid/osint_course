@@ -2,6 +2,11 @@
 
 Corso interattivo di Open Source Intelligence (OSINT): un percorso completo strutturato in 12 lezioni, quiz di autovalutazione, strumenti pratici, script in Python e tecniche avanzate per l'analisi delle fonti aperte nel pieno rispetto del quadro legale ed etico italiano ed europeo.
 
+📖 Libro del Corso
+
+Il manuale cartaceo / digitale completo che accompagna questo corso è disponibile su Amazon:
+👉 Acquista il Libro Ufficiale su Amazon
+
 📚 Struttura del Corso
 
 Il corso è suddiviso in 12 moduli progressivi, pensati per accompagnare lo studente dai fondamenti teorici fino alle tecniche avanzate di ricognizione digitale:
