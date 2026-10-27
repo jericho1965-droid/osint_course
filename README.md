@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jericho1965-droid/NOME-DEL-REPO/main/osint_banner.jpeg" alt="OSINT Course Banner" width="100%">
+</p>
 🔍 OSINT – Manuale Pratico | Corso Interattivo
 
 Corso interattivo di Open Source Intelligence (OSINT): un percorso completo strutturato in 12 lezioni, quiz di autovalutazione, strumenti pratici, script in Python e tecniche avanzate per l'analisi delle fonti aperte nel pieno rispetto del quadro legale ed etico italiano ed europeo.
