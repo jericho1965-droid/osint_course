@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jericho1965-droid/NOME-DEL-REPO/main/osint_banner.jpeg" alt="OSINT Course Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/jericho1965-droid/osint_course/main/osint_banner.jpeg" alt="OSINT Course Banner" width="100%">
 </p>
 🔍 OSINT – Manuale Pratico | Corso Interattivo
 
