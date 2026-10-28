@@ -74,7 +74,3 @@ Leggi il file `CONTRIBUTING.md` per conoscere le linee guida su come inviare una
 1. Clona o scarica il repository sul tuo ambiente di lavoro (si consiglia una macchina virtuale Linux dedicata, ad esempio Trace Labs OSINT VM o CSI Linux).
 2. Apri il file `index.html` nel tuo browser preferito per accedere alla piattaforma didattica interattiva con quiz e verifiche di apprendimento.
 3. Configura un browser isolato con estensioni di privacy (ad esempio uBlock Origin) e mantieni sempre un rigoroso regime di OPSEC (Operational Security).
-
-## 🙏 Riconoscimenti
-
-I temi delle lezioni 13–16 si ispirano all'indice del repository complementare [JambaAcademy/OSINT](https://github.com/JambaAcademy/OSINT) (licenza MIT); i contenuti sono stati riscritti in italiano e adattati al contesto normativo italiano ed europeo.
