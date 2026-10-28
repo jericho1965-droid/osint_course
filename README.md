@@ -10,12 +10,6 @@ Il manuale cartaceo / digitale completo che accompagna questo corso è disponibi
 
 [![Libro del Corso su Amazon](https://img.shields.io/badge/Amazon-Compra%20il%20Libro-orange?style=for-the-badge&logo=amazon&logoColor=white)](https://www.amazon.it/dp/B0HP6MQP3R)
 
-## 🆕 Novità
-
-- Il corso passa da 12 a **16 lezioni**: nuovi moduli su intelligence aziendale, infrastruttura tecnica, blockchain, OPSEC e reportistica.
-- Corretto lo schema del Ciclo dell'Intelligence nella Lezione 2 (sequenza 1 → 2 → 3 → 4 → 5 → 1).
-- Indice del README allineato ai titoli effettivi delle lezioni.
-
 ## 📚 Struttura del Corso
 
 Il corso è suddiviso in 16 moduli progressivi, pensati per accompagnare lo studente dai fondamenti teorici fino alle tecniche avanzate di ricognizione digitale. Ogni lezione termina con un quiz: serve almeno il **75%** di risposte corrette per sbloccare la lezione successiva.
