@@ -61,6 +61,8 @@ body{font-family:var(--font);background:var(--bg);color:var(--text);
   font-size:12px;cursor:pointer;width:100%;text-align:left;font-family:var(--font);
   transition:color .2s}
 .sidebar-footer button:hover{color:var(--text)}
+.sidebar-footer .btn-reset{margin-top:8px}
+.sidebar-footer .btn-reset:hover{color:var(--err)}
 
 /* ── Main ── */
 #main{flex:1;height:100vh;overflow-y:auto;display:flex;flex-direction:column;
@@ -220,6 +222,7 @@ hr{border:none;border-top:1px solid var(--border);margin:28px 0}
   <nav class="lesson-nav" id="lnav"></nav>
   <div class="sidebar-footer">
     <button onclick="go(-1)">← Home del corso</button>
+    <button class="btn-reset" onclick="resetCourse()">↺ Azzera progressi e ricomincia</button>
   </div>
 </aside>
 <main id="main"></main>
@@ -270,6 +273,15 @@ function escH(s) {
   return String(s)
     .replace(/&/g,'&amp;').replace(/</g,'&lt;')
     .replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+
+// ── Reset ────────────────────────────────────────────────────────────────────
+function resetCourse() {
+  if (!confirm('Vuoi azzerare tutti i progressi e ricominciare il corso da zero?\nQuiz e lezioni completate verranno cancellati. L\'operazione non può essere annullata.')) return;
+  try { localStorage.removeItem('osint_v3'); } catch(e) {}
+  st = { cur: -1, prog: {} };
+  render();
+  document.getElementById('main').scrollTo({ top: 0, behavior: 'smooth' });
 }
 
 // ── Navigate ─────────────────────────────────────────────────────────────────
